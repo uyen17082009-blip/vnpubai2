@@ -1,7 +1,7 @@
 import './App.css';
 import Student from "./Student";
 
-function Student() {
+function App() {
   return (
     <>
     <div className="container">
@@ -11,4 +11,4 @@ function Student() {
   );
 }
 
-export default Student;
+export default App;
