@@ -1,12 +1,12 @@
 import './App.css';
-import Gioithieu from "./GioiThieu"; 
+import Student from './Student';
 
-function App() {
+function Student() {
   return (
     <div className="container">
-      <Gioithieu />
+      <Student name="Vo Nguyen Phuong Uyen" age = "16" birth = "17/08/2009"/>
     </div>
   );
 }
 
-export default App;
+export default Student;
