@@ -8,9 +8,9 @@ function Student(props) {
       marginTop: '20px',
       backgroundColor: "white"
     }}>
-      <h2>{props.name}</h2>
-      <h2>{props.age}</h2>
-      <h2>{props.birth}</h2>
+      <h2>Ho Ten: {props.name}</h2>
+      <h2>Tuoi: {props.age}</h2>
+      <h2>Ngay Sinh: {props.birth}</h2>
     </div>
   );
 }
