@@ -10,8 +10,8 @@ function Student(props) {
       backgroundColor: "white"
     }}>
       <h2>Ho Ten: {props.name}</h2>
-      <h2>Tuoi: {props.age}</h2>
-      <h2>Ngay Sinh: {props.birth}</h2>
+      <p>Tuoi: {props.age}</p>
+      <p>Ngay Sinh: {props.birth}</p>
     </div>
     </>
   )
