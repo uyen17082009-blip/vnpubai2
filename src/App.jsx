@@ -1,5 +1,5 @@
 import './App.css';
-import Gioithieu from '..src/Gioithieu'; 
+import Gioithieu from '../Gioithieu'; 
 
 function App() {
   return (
