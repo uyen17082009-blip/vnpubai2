@@ -1,5 +1,6 @@
 function Student(props) {
   return (
+    <>
     <div style={{
       textAlign: 'center', 
       padding: '20px', 
@@ -12,7 +13,8 @@ function Student(props) {
       <h2>Tuoi: {props.age}</h2>
       <h2>Ngay Sinh: {props.birth}</h2>
     </div>
-  );
+    </>
+  )
 }
 
 export default Student;
