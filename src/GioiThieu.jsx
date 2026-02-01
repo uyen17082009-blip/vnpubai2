@@ -10,7 +10,6 @@ function Gioithieu() {
     }}>
       <h2>Họ tên: Võ Nguyễn Phương Uyên</h2>
       <p>Ngày sinh: 17/08/2009</p>
-      <p>Sở thích: Nghe nhạc</p>
     </div>
   );
 }
