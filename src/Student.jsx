@@ -1,15 +1,18 @@
+import './App.css';
+
+
 function Student(props) {
   return (
     <>
-    <div style={{
+    <div className="tb" style={{
       textAlign: 'center', 
       padding: '20px', 
-      border: '1px solid #ddd', 
+      border: '1px solid #55464dff', 
       borderRadius: '10px',
       marginTop: '20px',
       backgroundColor: "white"
     }}>
-      <h2>Ho Ten: {props.name}</h2>
+      <h3>Ho Ten: {props.name}</h3>
       <p>Tuoi: {props.age}</p>
       <p>Ngay Sinh: {props.birth}</p>
     </div>

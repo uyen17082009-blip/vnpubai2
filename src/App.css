@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+body{
+   background-color: rgb(250, 216, 229);
+   font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  color: white;
+  text-shadow:0 0 15px rgb(201, 51, 108);
+}
+.tb:hover {
+  filter: drop-shadow(0 0 2em rgb(255, 161, 198));
+}
+
+
