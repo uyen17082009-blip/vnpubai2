@@ -8,8 +8,8 @@ function App() {
     <div className="container">
       
       <Student name="Vo Nguyen Phuong Uyen" age = {16} birth = "17/08/2009"/>
-      <Student name="Vo Nguyen Phuong Uyen" age = {16} birth = "17/08/2009"/>
-      <Student name="Vo Nguyen Phuong Uyen" age = {16} birth = "17/08/2009"/>
+      <Student name="Cao Bao Tran" age = {16} birth = "16/08/2009"/>
+      <Student name="Than Thi Thien Kieu" age = {16} birth = "28/03/2009"/>
     </div>
     </>
   );
